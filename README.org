@@ -1,0 +1,10 @@
+* hash-set
+
+An implementation of a hash-set.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/samebchase/hash-set.git   |
+| commit  | 6feb20d  |
+| systems | hash-set |
+|---------+-------------------------------------------|
+
