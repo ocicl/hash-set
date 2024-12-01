@@ -2,9 +2,8 @@
 
 An implementation of a hash-set.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/samebchase/hash-set.git   |
-| commit  | 6feb20d  |
-| systems | hash-set |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/samebchase/hash-set.git |
+| commit  | 89b83ed                                        |
+| systems | hash-set                                       |
+|---------+------------------------------------------------|
